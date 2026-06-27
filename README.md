@@ -49,4 +49,4 @@ See [analyse-ecommerce.sql](analyse-ecommerce.sql)
 ---
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/mirabelle-nguessan)
+[LinkedIn](https://www.linkedin.com/in/mirabelle-n-guessan-103a49171/)
