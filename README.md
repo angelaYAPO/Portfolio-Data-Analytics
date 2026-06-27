@@ -31,7 +31,7 @@ Analysis of a real e-commerce dataset with 541,909 rows using SQL, Excel, and Po
 ---
 
 ## Dashboard Preview
-![Dashboard](Capture d'écran 2026-06-18 192724.png)
+![Dashboard](dashboard-powerbi.png)
 
 ---
 
